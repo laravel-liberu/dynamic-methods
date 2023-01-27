@@ -1,18 +1,18 @@
 {
-    "name": "laravel-enso/dynamic-methods",
+    "name": "cgdsoftware/dynamic-methods",
     "description": "Dynamic methods, relations or accessors for models",
     "keywords": [
-        "laravel-enso",
+        "cgdsoftware",
         "dynamic-methods"
     ],
-    "homepage": "https://github.com/laravel-enso/dynamic-methods",
+    "homepage": "https://github.com/cgdsoftware/dynamic-methods",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "Adrian Ocneanu",
             "email": "aocneanu@gmail.com",
-            "homepage": "https://laravel-enso.com",
+            "homepage": "https://cgdsoftware.com",
             "role": "Developer"
         }
     ],
