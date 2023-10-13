@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelEnso\DynamicMethods\Traits;
+namespace LaravelLiberu\DynamicMethods\Traits;
 
 use BadMethodCallException;
 use Closure;

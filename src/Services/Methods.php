@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelEnso\DynamicMethods\Services;
+namespace LaravelLiberu\DynamicMethods\Services;
 
 use Illuminate\Support\Collection;
 

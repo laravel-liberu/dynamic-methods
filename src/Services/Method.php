@@ -1,9 +1,9 @@
 <?php
 
-namespace LaravelEnso\DynamicMethods\Services;
+namespace LaravelLiberu\DynamicMethods\Services;
 
-use LaravelEnso\DynamicMethods\Contracts\Method as Contract;
-use LaravelEnso\DynamicMethods\Exceptions\Model;
+use LaravelLiberu\DynamicMethods\Contracts\Method as Contract;
+use LaravelLiberu\DynamicMethods\Exceptions\Model;
 use ReflectionClass;
 
 class Method

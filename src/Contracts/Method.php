@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelEnso\DynamicMethods\Contracts;
+namespace LaravelLiberu\DynamicMethods\Contracts;
 
 use Closure;
 
