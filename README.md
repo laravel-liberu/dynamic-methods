@@ -1,14 +1,14 @@
 # Dynamic Methods
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/fcb9ec7a8f7340c789b990c9616c3f25)](https://www.codacy.com/gh/laravel-enso/dynamic-methods?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=laravel-enso/dynamic-methods&amp;utm_campaign=Badge_Grade) 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/fcb9ec7a8f7340c789b990c9616c3f25)](https://www.codacy.com/gh/laravel-liberu/dynamic-methods?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=laravel-liberu/dynamic-methods&amp;utm_campaign=Badge_Grade) 
 [![StyleCI](https://github.styleci.io/repos/85466970/shield?branch=master)](https://github.styleci.io/repos/85466970)
-[![License](https://poser.pugx.org/laravel-enso/dynamic-methods/license)](https://packagist.org/packages/laravel-enso/dynamic-methods)
-[![Total Downloads](https://poser.pugx.org/laravel-enso/dynamic-methods/downloads)](https://packagist.org/packages/laravel-enso/dynamic-methods)
-[![Latest Stable Version](https://poser.pugx.org/laravel-enso/dynamic-methods/version)](https://packagist.org/packages/laravel-enso/dynamic-methods)
+[![License](https://poser.pugx.org/laravel-liberu/dynamic-methods/license)](https://packagist.org/packages/laravel-liberu/dynamic-methods)
+[![Total Downloads](https://poser.pugx.org/laravel-liberu/dynamic-methods/downloads)](https://packagist.org/packages/laravel-liberu/dynamic-methods)
+[![Latest Stable Version](https://poser.pugx.org/laravel-liberu/dynamic-methods/version)](https://packagist.org/packages/laravel-liberu/dynamic-methods)
 
-Add dynamic methods in models for [Laravel Liberu](https://github.com/laravel-enso/Liberu).
+Add dynamic methods in models for [Laravel Liberu](https://github.com/laravel-liberu/Liberu).
 
-This package can work independently of the [Liberu](https://github.com/laravel-enso/Liberu) ecosystem.
+This package can work independently of the [Liberu](https://github.com/laravel-liberu/Liberu) ecosystem.
 
 For live examples and demos, you may visit [liberu.co.uk](https://www.liberu.co.uk)
 
